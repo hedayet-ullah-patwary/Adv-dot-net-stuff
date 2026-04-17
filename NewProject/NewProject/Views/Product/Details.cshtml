@@ -1,0 +1,19 @@
+﻿@model NewProject.Models.Product
+
+<h2>Product Details</h2>
+<hr />
+
+<div>
+    <p><strong>Name:</strong> @Model.Name</p>
+    <p><strong>Price:</strong> @Model.Price</p>
+    <p><strong>Category:</strong> @Model.Category</p>
+
+    @if (Model.Price > 1000)
+    {
+        <div class="alert alert-success">
+            <strong>Status:</strong> Premium Product
+        </div>
+    }
+</div>
+
+<a href="/Product/Index">Back to List</a>

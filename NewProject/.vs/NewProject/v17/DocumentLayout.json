@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\NewProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D16DCDE-A003-47DE-A723-0D92373529FD}|NewProject\\NewProject.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\newproject\\newproject\\views\\book\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D16DCDE-A003-47DE-A723-0D92373529FD}|NewProject\\NewProject.csproj|solutionrelative:newproject\\views\\book\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D16DCDE-A003-47DE-A723-0D92373529FD}|NewProject\\NewProject.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\newproject\\newproject\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D16DCDE-A003-47DE-A723-0D92373529FD}|NewProject\\NewProject.csproj|solutionrelative:newproject\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D16DCDE-A003-47DE-A723-0D92373529FD}|NewProject\\NewProject.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\newproject\\newproject\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D16DCDE-A003-47DE-A723-0D92373529FD}|NewProject\\NewProject.csproj|solutionrelative:newproject\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D16DCDE-A003-47DE-A723-0D92373529FD}|NewProject\\NewProject.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\newproject\\newproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D16DCDE-A003-47DE-A723-0D92373529FD}|NewProject\\NewProject.csproj|solutionrelative:newproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\NewProject\\NewProject\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "NewProject\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\NewProject\\NewProject\\Controllers\\BookController.cs",
+              "RelativeToolTip": "NewProject\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T05:15:23.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\NewProject\\NewProject\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "NewProject\\Models\\Book.cs",
+              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\NewProject\\NewProject\\Models\\Book.cs",
+              "RelativeToolTip": "NewProject\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T05:15:19.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\NewProject\\NewProject\\Views\\Book\\List.cshtml",
+              "RelativeDocumentMoniker": "NewProject\\Views\\Book\\List.cshtml",
+              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\NewProject\\NewProject\\Views\\Book\\List.cshtml",
+              "RelativeToolTip": "NewProject\\Views\\Book\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T17:58:51.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\NewProject\\NewProject\\Program.cs",
+              "RelativeDocumentMoniker": "NewProject\\Program.cs",
+              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\NewProject\\NewProject\\Program.cs",
+              "RelativeToolTip": "NewProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T07:36:17.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

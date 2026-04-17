@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroEntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11DC1057-13C2-4994-9DCD-3F9B71B56825}|IntroEntityFramework\\IntroEntityFramework.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\introentityframework\\introentityframework\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DC1057-13C2-4994-9DCD-3F9B71B56825}|IntroEntityFramework\\IntroEntityFramework.csproj|solutionrelative:introentityframework\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DC1057-13C2-4994-9DCD-3F9B71B56825}|IntroEntityFramework\\IntroEntityFramework.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\introentityframework\\introentityframework\\ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DC1057-13C2-4994-9DCD-3F9B71B56825}|IntroEntityFramework\\IntroEntityFramework.csproj|solutionrelative:introentityframework\\ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroEntityFramework\\IntroEntityFramework\\EF\\Tables\\Student.cs",
+              "RelativeDocumentMoniker": "IntroEntityFramework\\EF\\Tables\\Student.cs",
+              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroEntityFramework\\IntroEntityFramework\\EF\\Tables\\Student.cs",
+              "RelativeToolTip": "IntroEntityFramework\\EF\\Tables\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T07:39:57.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroEntityFramework\\IntroEntityFramework\\EF\\Tables\\Department.cs",
+              "RelativeDocumentMoniker": "IntroEntityFramework\\EF\\Tables\\Department.cs",
+              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroEntityFramework\\IntroEntityFramework\\EF\\Tables\\Department.cs",
+              "RelativeToolTip": "IntroEntityFramework\\EF\\Tables\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T07:39:52.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

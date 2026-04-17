@@ -1,0 +1,35 @@
+﻿@model List<Course>
+
+<h2>Course List</h2>
+<hr />
+
+@if (!Model.Any())
+{
+    <div class="alert alert-warning">No courses found for this semester!</div>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Course Title</th>
+                <th>Credit</th>
+                <th>Semester</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var course in Model)
+            {
+                <tr>
+                    <td>@course.Id</td>
+                    <td>@course.Title</td>
+                    <td>@course.Credit</td>
+                    <td>@course.Semester</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<a href="/Course/List" class="btn btn-primary">Show All Courses</a>

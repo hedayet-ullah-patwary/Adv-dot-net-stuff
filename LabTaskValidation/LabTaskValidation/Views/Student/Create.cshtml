@@ -1,0 +1,35 @@
+﻿<form action="Create" method="post">
+	<div class="">
+        <label>Name</label>
+        <input type="text" name="Name" class="form-control" />
+        <span class="text-danger">@Html.ValidationMessage("Name")</span>
+    </div>
+
+    <div class="">
+        <label>Id</label>
+        <input type="text" name="StudentId" class="form-control" />
+        <span class="text-danger">@Html.ValidationMessage("StudentId")</span>
+    </div>
+
+    <div class="">
+        <label>DOB</label>
+        <input type="date" name="DateOfBirth" class="form-control" />
+        <span class="text-danger">@Html.ValidationMessage("DateOfBirth")</span>
+    </div>
+
+    <div class="">
+        <label>Email</label>
+        <input type="text" name="Email" class="form-control" />
+        <span class="text-danger">@Html.ValidationMessage("Email")</span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+</form>
+
+@section Scripts { 
+@{await Html.RenderPartialAsync("_ValidationScriptsPartial");} 
+} 
+
+
+

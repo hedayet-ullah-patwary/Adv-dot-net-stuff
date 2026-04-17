@@ -1,0 +1,22 @@
+﻿<h2>Product List</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Category</td>
+                <td>
+                    <a href="/Product/Details/@item.Id">View Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

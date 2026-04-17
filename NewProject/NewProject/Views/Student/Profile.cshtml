@@ -1,0 +1,20 @@
+﻿<h2>Student Profile</h2>
+<hr />
+
+<ul>
+    <li><strong>ID:</strong> @Model.Id</li>
+    <li><strong>Name:</strong> @Model.Name</li>
+    <li><strong>Department:</strong> @Model.Department</li>
+    <li><strong>Age:</strong> @Model.Age 
+        (@(Model.Age < 18 ? "Minor" : "Adult"))
+    </li>
+    <li><strong>CGPA:</strong> @Model.CGPA 
+        (@(Model.CGPA >= 3.5 ? "Excellent" : "Average"))
+    </li>
+</ul>
+
+<p>
+    Status: 
+    @if (Model.Age >= 18) { <span>Adult</span> } 
+    else { <span>Minor</span> }
+</p>
