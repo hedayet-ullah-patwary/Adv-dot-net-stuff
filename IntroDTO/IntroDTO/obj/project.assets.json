@@ -7485,11 +7485,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroDTO\\IntroDTO\\IntroDTO.csproj",
+      "projectUniqueName": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\IntroDTO.csproj",
       "projectName": "IntroDTO",
-      "projectPath": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroDTO\\IntroDTO\\IntroDTO.csproj",
+      "projectPath": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\IntroDTO.csproj",
       "packagesPath": "C:\\Users\\Labib\\.nuget\\packages\\",
-      "outputPath": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroDTO\\IntroDTO\\obj\\",
+      "outputPath": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

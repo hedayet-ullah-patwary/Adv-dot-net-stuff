@@ -1,30 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroDTO\\",
+  "WorkspaceRootPath": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\introdto\\introdto\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|d:\\aiub\\11th semester\\adv .net\\adv-dot-net-stuff\\introdto\\introdto\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\introdto\\introdto\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|d:\\aiub\\11th semester\\adv .net\\adv-dot-net-stuff\\introdto\\introdto\\ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|d:\\aiub\\11th semester\\adv .net\\adv-dot-net-stuff\\introdto\\introdto\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\introdto\\introdto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|d:\\aiub\\11th semester\\adv .net\\adv-dot-net-stuff\\introdto\\introdto\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\introdto\\introdto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\introdto\\introdto\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|d:\\aiub\\11th semester\\adv .net\\adv-dot-net-stuff\\introdto\\introdto\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\introdto\\introdto\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|d:\\aiub\\11th semester\\adv .net\\adv-dot-net-stuff\\introdto\\introdto\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|d:\\aiub\\11th semester\\adv .net\\adv-dot-net-stuff\\introdto\\introdto\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|d:\\aiub\\11th semester\\adv .net\\adv-dot-net-stuff\\introdto\\introdto\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EBEF6D-7C99-4C9C-B757-A6B155E2DF35}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroDTO\\IntroDTO\\Views\\Student\\Create.cshtml",
-              "RelativeDocumentMoniker": "IntroDTO\\Views\\Student\\Create.cshtml",
-              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroDTO\\IntroDTO\\Views\\Student\\Create.cshtml",
-              "RelativeToolTip": "IntroDTO\\Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "IntroDTO\\Views\\Course\\Create.cshtml",
+              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "IntroDTO\\Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-17T13:41:03.294Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroDTO\\IntroDTO\\Views\\Department\\Create.cshtml",
-              "RelativeDocumentMoniker": "IntroDTO\\Views\\Department\\Create.cshtml",
-              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroDTO\\IntroDTO\\Views\\Department\\Create.cshtml",
-              "RelativeToolTip": "IntroDTO\\Views\\Department\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-17T13:38:53.8Z",
+              "WhenOpened": "2026-04-17T16:12:53.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroDTO\\IntroDTO\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "IntroDTO\\Controllers\\DepartmentController.cs",
-              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroDTO\\IntroDTO\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "IntroDTO\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T13:17:40.77Z"
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "IntroDTO\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "IntroDTO\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-17T13:41:03.294Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroDTO\\IntroDTO\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "IntroDTO\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroDTO\\IntroDTO\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "IntroDTO\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAxAAAAAAAAAA==",
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\EF\\Tables\\Course.cs",
+              "RelativeDocumentMoniker": "IntroDTO\\EF\\Tables\\Course.cs",
+              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\EF\\Tables\\Course.cs",
+              "RelativeToolTip": "IntroDTO\\EF\\Tables\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T13:17:06.037Z"
+              "WhenOpened": "2026-04-17T16:20:57.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\DTOs\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "IntroDTO\\DTOs\\CourseDTO.cs",
+              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\DTOs\\CourseDTO.cs",
+              "RelativeToolTip": "IntroDTO\\DTOs\\CourseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:14:29.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "IntroDTO\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\Controllers\\CourseController.cs*",
+              "RelativeToolTip": "IntroDTO\\Controllers\\CourseController.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAhwC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:11:56.774Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroDTO\\IntroDTO\\appsettings.json",
-              "RelativeDocumentMoniker": "IntroDTO\\appsettings.json",
-              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroDTO\\IntroDTO\\appsettings.json",
-              "RelativeToolTip": "IntroDTO\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-17T13:46:59.842Z"
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroDTO\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroDTO\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:55:25.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroDTO\\IntroDTO\\Program.cs",
-              "RelativeDocumentMoniker": "IntroDTO\\Program.cs",
-              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\IntroDTO\\IntroDTO\\Program.cs",
-              "RelativeToolTip": "IntroDTO\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "IntroDTO\\DTOs\\StudentDTO.cs",
+              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "IntroDTO\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T12:34:46.722Z"
+              "WhenOpened": "2026-04-17T16:23:15.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\EF\\Tables\\Student.cs",
+              "RelativeDocumentMoniker": "IntroDTO\\EF\\Tables\\Student.cs",
+              "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\IntroDTO\\IntroDTO\\EF\\Tables\\Student.cs",
+              "RelativeToolTip": "IntroDTO\\EF\\Tables\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:22:12.088Z",
+              "EditorCaption": ""
             }
           ]
         }

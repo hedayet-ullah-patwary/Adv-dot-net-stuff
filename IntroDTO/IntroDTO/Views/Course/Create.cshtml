@@ -1,0 +1,13 @@
+﻿
+<form method="post">
+    <input type="text" name="Name" placeholder="Name" class="form-control" />
+    <select name="Did">
+        <option selected disabled>--Select--</option>
+        @foreach (var item in ViewBag.Departments)
+        {
+            <option value="@item.Id">@item.Name</option>
+        }
+    </select>
+    <input type="submit" value="Create" class="btn btn-success" />
+</form>
+
