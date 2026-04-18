@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LabTaskValidation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50090a6ff1e0301aad415cde6c88893f8e7a9552")]
 [assembly: System.Reflection.AssemblyProductAttribute("LabTaskValidation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LabTaskValidation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

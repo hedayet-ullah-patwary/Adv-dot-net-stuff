@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\LabTaskValidation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC03E665-7859-4588-858B-C267AAC3CE11}|LabTaskValidation\\LabTaskValidation.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\labtaskvalidation\\labtaskvalidation\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC03E665-7859-4588-858B-C267AAC3CE11}|LabTaskValidation\\LabTaskValidation.csproj|solutionrelative:labtaskvalidation\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FC03E665-7859-4588-858B-C267AAC3CE11}|LabTaskValidation\\LabTaskValidation.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\labtaskvalidation\\labtaskvalidation\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC03E665-7859-4588-858B-C267AAC3CE11}|LabTaskValidation\\LabTaskValidation.csproj|solutionrelative:labtaskvalidation\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC03E665-7859-4588-858B-C267AAC3CE11}|LabTaskValidation\\LabTaskValidation.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\labtaskvalidation\\labtaskvalidation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC03E665-7859-4588-858B-C267AAC3CE11}|LabTaskValidation\\LabTaskValidation.csproj|solutionrelative:labtaskvalidation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC03E665-7859-4588-858B-C267AAC3CE11}|LabTaskValidation\\LabTaskValidation.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\labtaskvalidation\\labtaskvalidation\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC03E665-7859-4588-858B-C267AAC3CE11}|LabTaskValidation\\LabTaskValidation.csproj|solutionrelative:labtaskvalidation\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC03E665-7859-4588-858B-C267AAC3CE11}|LabTaskValidation\\LabTaskValidation.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\labtaskvalidation\\labtaskvalidation\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC03E665-7859-4588-858B-C267AAC3CE11}|LabTaskValidation\\LabTaskValidation.csproj|solutionrelative:labtaskvalidation\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC03E665-7859-4588-858B-C267AAC3CE11}|LabTaskValidation\\LabTaskValidation.csproj|d:\\aiub\\11th semester\\adv .net\\lab\\labtaskvalidation\\labtaskvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\LabTaskValidation\\LabTaskValidation\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "LabTaskValidation\\Views\\Student\\Create.cshtml",
@@ -56,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\LabTaskValidation\\LabTaskValidation\\Models\\Student.cs",
               "RelativeDocumentMoniker": "LabTaskValidation\\Models\\Student.cs",
               "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\LabTaskValidation\\LabTaskValidation\\Models\\Student.cs",
               "RelativeToolTip": "LabTaskValidation\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-04T16:56:02.982Z",
               "EditorCaption": ""

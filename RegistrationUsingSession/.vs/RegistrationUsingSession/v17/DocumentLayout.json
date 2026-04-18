@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\RegistrationUsingSession\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F9C08B10-DBA7-4536-A66C-99DC0155C9C7}|RegistrationUsingSession\\RegistrationUsingSession.csproj|d:\\aiub\\11th semester\\adv .net\\adv-dot-net-stuff\\registrationusingsession\\registrationusingsession\\ef\\tables\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C08B10-DBA7-4536-A66C-99DC0155C9C7}|RegistrationUsingSession\\RegistrationUsingSession.csproj|solutionrelative:registrationusingsession\\ef\\tables\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9C08B10-DBA7-4536-A66C-99DC0155C9C7}|RegistrationUsingSession\\RegistrationUsingSession.csproj|d:\\aiub\\11th semester\\adv .net\\adv-dot-net-stuff\\registrationusingsession\\registrationusingsession\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9C08B10-DBA7-4536-A66C-99DC0155C9C7}|RegistrationUsingSession\\RegistrationUsingSession.csproj|solutionrelative:registrationusingsession\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +19,12 @@
       "RelativeMoniker": "D:0:0:{F9C08B10-DBA7-4536-A66C-99DC0155C9C7}|RegistrationUsingSession\\RegistrationUsingSession.csproj|solutionrelative:registrationusingsession\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9C08B10-DBA7-4536-A66C-99DC0155C9C7}|RegistrationUsingSession\\RegistrationUsingSession.csproj|d:\\aiub\\11th semester\\adv .net\\adv-dot-net-stuff\\registrationusingsession\\registrationusingsession\\ef\\tables\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9C08B10-DBA7-4536-A66C-99DC0155C9C7}|RegistrationUsingSession\\RegistrationUsingSession.csproj|solutionrelative:registrationusingsession\\ef\\tables\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9C08B10-DBA7-4536-A66C-99DC0155C9C7}|RegistrationUsingSession\\RegistrationUsingSession.csproj|d:\\aiub\\11th semester\\adv .net\\adv-dot-net-stuff\\registrationusingsession\\registrationusingsession\\views\\registration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9C08B10-DBA7-4536-A66C-99DC0155C9C7}|RegistrationUsingSession\\RegistrationUsingSession.csproj|solutionrelative:registrationusingsession\\views\\registration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9C08B10-DBA7-4536-A66C-99DC0155C9C7}|RegistrationUsingSession\\RegistrationUsingSession.csproj|d:\\aiub\\11th semester\\adv .net\\adv-dot-net-stuff\\registrationusingsession\\registrationusingsession\\views\\registration\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F9C08B10-DBA7-4536-A66C-99DC0155C9C7}|RegistrationUsingSession\\RegistrationUsingSession.csproj|solutionrelative:registrationusingsession\\views\\registration\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9C08B10-DBA7-4536-A66C-99DC0155C9C7}|RegistrationUsingSession\\RegistrationUsingSession.csproj|d:\\aiub\\11th semester\\adv .net\\adv-dot-net-stuff\\registrationusingsession\\registrationusingsession\\views\\registration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9C08B10-DBA7-4536-A66C-99DC0155C9C7}|RegistrationUsingSession\\RegistrationUsingSession.csproj|solutionrelative:registrationusingsession\\views\\registration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\RegistrationUsingSession\\RegistrationUsingSession\\Views\\Registration\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "RegistrationUsingSession\\Views\\Registration\\Dashboard.cshtml",
@@ -46,23 +46,25 @@
               "RelativeToolTip": "RegistrationUsingSession\\Views\\Registration\\Dashboard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-18T12:41:20.688Z"
+              "WhenOpened": "2026-04-18T12:41:20.688Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\RegistrationUsingSession\\RegistrationUsingSession\\Views\\Registration\\Register.cshtml",
               "RelativeDocumentMoniker": "RegistrationUsingSession\\Views\\Registration\\Register.cshtml",
               "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\RegistrationUsingSession\\RegistrationUsingSession\\Views\\Registration\\Register.cshtml",
               "RelativeToolTip": "RegistrationUsingSession\\Views\\Registration\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-18T12:31:54.568Z"
+              "WhenOpened": "2026-04-18T12:31:54.568Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RegistrationDTO.cs",
               "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\RegistrationUsingSession\\RegistrationUsingSession\\DTOs\\RegistrationDTO.cs",
               "RelativeDocumentMoniker": "RegistrationUsingSession\\DTOs\\RegistrationDTO.cs",
@@ -75,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\RegistrationUsingSession\\RegistrationUsingSession\\Views\\Registration\\Login.cshtml",
               "RelativeDocumentMoniker": "RegistrationUsingSession\\Views\\Registration\\Login.cshtml",
@@ -88,28 +90,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RegistrationController.cs",
               "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\RegistrationUsingSession\\RegistrationUsingSession\\Controllers\\RegistrationController.cs",
               "RelativeDocumentMoniker": "RegistrationUsingSession\\Controllers\\RegistrationController.cs",
               "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\RegistrationUsingSession\\RegistrationUsingSession\\Controllers\\RegistrationController.cs",
               "RelativeToolTip": "RegistrationUsingSession\\Controllers\\RegistrationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-18T08:01:11.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Registration.cs",
               "DocumentMoniker": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\RegistrationUsingSession\\RegistrationUsingSession\\EF\\Tables\\Registration.cs",
               "RelativeDocumentMoniker": "RegistrationUsingSession\\EF\\Tables\\Registration.cs",
               "ToolTip": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\RegistrationUsingSession\\RegistrationUsingSession\\EF\\Tables\\Registration.cs",
               "RelativeToolTip": "RegistrationUsingSession\\EF\\Tables\\Registration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-18T07:53:37.174Z"
+              "WhenOpened": "2026-04-18T07:53:37.174Z",
+              "EditorCaption": ""
             }
           ]
         }

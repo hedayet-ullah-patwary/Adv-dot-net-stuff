@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rJAK2WmxnJs=",
+  "dgSpecHash": "Yb6HPpTho5A=",
   "success": true,
-  "projectFilePath": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\LabTaskValidation\\LabTaskValidation\\LabTaskValidation.csproj",
+  "projectFilePath": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\LabTaskValidation\\LabTaskValidation\\LabTaskValidation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Labib\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Labib\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

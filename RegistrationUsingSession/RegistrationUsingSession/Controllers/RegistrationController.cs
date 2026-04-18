@@ -58,6 +58,14 @@ namespace RegistrationUsingSession.Controllers
         [HttpPost]
         public IActionResult Register(RegistrationDTO u)
         {
+            bool emailExists = db.Registrations.Any(x => x.Email.ToLower() == u.Email.ToLower().Trim());
+
+            if (emailExists)
+            {
+                ViewBag.Error = "This email is already registered! Please use a different email.";
+                return View(u);
+            }
+
             if (ModelState.IsValid)
             {
                 var newUser = new Registration

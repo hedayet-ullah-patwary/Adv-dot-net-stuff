@@ -5766,11 +5766,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\LabTaskValidation\\LabTaskValidation\\LabTaskValidation.csproj",
+      "projectUniqueName": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\LabTaskValidation\\LabTaskValidation\\LabTaskValidation.csproj",
       "projectName": "LabTaskValidation",
-      "projectPath": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\LabTaskValidation\\LabTaskValidation\\LabTaskValidation.csproj",
+      "projectPath": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\LabTaskValidation\\LabTaskValidation\\LabTaskValidation.csproj",
       "packagesPath": "C:\\Users\\Labib\\.nuget\\packages\\",
-      "outputPath": "D:\\AIUB\\11th semester\\Adv .net\\Lab\\LabTaskValidation\\LabTaskValidation\\obj\\",
+      "outputPath": "D:\\AIUB\\11th semester\\Adv .net\\Adv-dot-net-stuff\\LabTaskValidation\\LabTaskValidation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

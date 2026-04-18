@@ -1,10 +1,14 @@
 ﻿<h2>Registration</h2>
 <form method="post">
-    Name: <input type="text" name="Name" placeholder="Name" class="form-control" /><br />
-    Email: <input type="email" name="Email" placeholder="Password" class="form-control" /><br />
-    Password: <input type="password" name="Pass" placeholder="Password" class="form-control" /><br />
+    Name: <input type="text" name="Name" placeholder="Name" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Name")</span><br />
+    Email: <input type="email" name="Email" placeholder="Password" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Email")</span><br />
+    Password: <input type="password" name="Pass" placeholder="Password" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("pass")</span><br />
     <button type="submit">Register</button>
 </form>
+<p style="color:red">@ViewBag.Error</p>
 <br />
 <a href="/Registration/Login">Back to Login</a>
 
