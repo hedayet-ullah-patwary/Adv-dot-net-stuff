@@ -32,7 +32,7 @@ namespace IntroDTO.Controllers
                 };
                 db.Departments.Add(dept);
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("Create");
             }
             return View(d);
 

@@ -38,7 +38,7 @@ namespace IntroDTO.Controllers
                 };
                 db.Students.Add(st);
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("Create");
             }
             var depts = db.Departments.ToList();
             ViewBag.Departments = depts;
