@@ -1,0 +1,8 @@
+﻿@* @inject Microsoft.AspNetCore.Http.IHttpContextAccessor Accessor *@
+
+<h2>Dashboard</h2>
+<p>Welcome, @Context.Session.GetString("UserName")</p>
+<p>Email: @Context.Session.GetString("UserEmail")</p>
+<br />
+<a href="/Registration/Logout">Logout</a>
+
